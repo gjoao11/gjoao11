@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm João Gilberto
+
+🌱 I’m currently learning Web Development <br>
 
 <!--
 **gjoao11/gjoao11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
