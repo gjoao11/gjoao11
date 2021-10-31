@@ -2,6 +2,8 @@
 
 🌱 I’m currently learning Web Development <br>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gjoao11/)](https://www.linkedin.com/in/gjoao11/)
+
 <!--
 **gjoao11/gjoao11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
